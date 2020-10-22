@@ -10,7 +10,7 @@
   <div class="container p2">
     <div class="row">
       <div class="col-md-12">
-        <p class="copyright">Modernización e Innovación - &copy;marcospazdigital - Versión 1.0 - Municipio de Marcos Paz</p>
+        <p class="copyright">Sub secretaria de Modernización e Innovación - &copy;marcospazdigital - Versión 1.0 - Municipio de Marcos Paz</p>
       </div>
     </div>
     <div class="row">

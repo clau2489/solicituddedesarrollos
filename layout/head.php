@@ -1,4 +1,4 @@
-<?php $title = "CUARI | Municipio de Marcos Paz"; ?>
+<?php $title = "Solicitud de desarrollo de software"; ?>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
