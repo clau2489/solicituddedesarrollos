@@ -17,7 +17,7 @@
       <h3 class="mb-5">
         <!-- <em style="color: white;">Una forma diferente de comprar</em>-->
       </h3>
-      <a class="btn btn-success btn-sm js-scroll-trigger" href="#about">Acceder</a>
+      <a class="btn btn-primary btn-sm js-scroll-trigger" href="#about">Acceder</a>
     </div>
     <div class="overlay"></div>
   </header>
@@ -29,18 +29,16 @@
       <div class="row"> 
         <div class="offset-md-2 col-md-8 p2">
           <div class="text-center">
-            <!-- <img src="assets/img/logo.png" width="300px;">-->
-          </div>          
-          <br>
-          <br>
-          <form action="procesarreclamo.php" method="post">
-            
-            <div class="alert ">
               <div class="alert alert-success" role="alert">
                 <h4>A continuación le vamos a solicitar los datos requeridos para realizar el sistema y/o aplicación que deseas.</h4>
                 <p><a class="btn btn-primary" href="#" role="button">Continuar</a></p>                
               </div>
-              <br>
+          </div>          
+          <br>
+          <br>
+          <form action="procesarreclamo.php" method="post" style="background-color: #00000014;">
+            
+            <div class="alert ">
               <div class="form-group">
                 <label>Área que solicita el proyecto: </label>
                 <input type="text" class="form-control" id="area" name="area" required>
