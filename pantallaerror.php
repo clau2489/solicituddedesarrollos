@@ -16,14 +16,14 @@
             <!-- <img src="assets/img/buzon.png" width="70%;"> -->
             <br>
             <br>
-            <h4 class="alert-heading">Reclamos Online</h4>
+            <h4 class="alert-heading">Nuevos Desarrollos de Aplicaciones</h4>
             <br>
           </div>
         </div>
         <div class="row">
           <div class="offset-md-3 col-md-6">
             <div class="alert alert-danger" role="alert">
-              <h4 class="alert-heading">Tu reclamo no pudo ser enviado</h4>
+              <h4 class="alert-heading">El formulario no pudo ser enviado</h4>
               <p>Ha ocurrido un problema de conexión a nuestros servidores o los datos ingresados no han podido ser procesados. Por favor intente nuevamente en unos minutos</p>
               <hr>
               <p class="mb-0">Muchas Gracias</p>

@@ -36,7 +36,7 @@
           </div>          
           <br>
           <br>
-          <form action="procesarreclamo.php" method="post" style="background-color: #00000014;">
+          <form action="enviarmail.php" method="post" style="background-color: #00000014;">
             
             <div class="alert ">
               <div class="form-group">
@@ -57,7 +57,7 @@
               </div> 
               <div class="form-group">
                 <label>Fecha estimada de su implementación y/o lanzamiento: </label>
-                <input type="text" class="form-control" id="fechaimplementacion" name="fechaimplementacion" required>
+                <input type="date" class="form-control" id="fechaimplementacion" name="fechaimplementacion" required>
               </div>                             
               <div class="form-group">
                 <label>Tipo de aplicación: </label>
